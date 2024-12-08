@@ -1,6 +1,6 @@
 # Simple Todo App
 
-This is a simple toto app that allows you to create new todos, give them due dates, check off when complete, and delete when completed.
+This is a simple todo app that allows you to create new todos, give them due dates, check off when complete, and delete when completed.
 
 ## Functionality
 
