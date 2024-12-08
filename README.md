@@ -1,17 +1,20 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This is a simple toto app that allows you to create new todos, give them due dates, check off when complete, and delete when completed.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+The functionality is being able to add todo with optional due dates and be able to check off and delete when done.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Technologies used were:
+-HTML
+-CSS
+Javascript: Using OOP and modules
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Deployment Link](https://djjohnson20.github.io/se_project_todo-app/)
