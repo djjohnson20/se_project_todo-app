@@ -1,5 +1,4 @@
 import Popup from "./Popup.js";
-import TodoCounter from "./TodoCounter.js";
 
 class PopupWithForm extends Popup {
   constructor({ popupSelector, handleFormSubmit }) {
@@ -24,7 +23,8 @@ class PopupWithForm extends Popup {
       evt.preventDefault();
       const inputValues = this._getInputValues();
       this._getInputValues();
-      this._handleFormSubmit(evt);
+      this._handleFormSubmit(inputValues);
+      this._popupForm.reset();
     });
   }
 }
